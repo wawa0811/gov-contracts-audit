@@ -59,4 +59,4 @@ Contains information licensed under the [Open Government Licence - Canada](https
 
 ## Author
 
-Jiatong (Clover) Li, Financial Analysis and Risk Management, University of Waterloo
+Jiatong Li, Financial Analysis and Risk Management, University of Waterloo
